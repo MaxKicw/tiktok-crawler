@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "prod": "of-oct",
+    "default": "of-oct"
+  },
+  "targets": {},
+  "etags": {}
+}
